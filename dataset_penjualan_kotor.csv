@@ -1,0 +1,1001 @@
+id_trx;nama_produk;trx_date;harga;nama_customer;harga_modal
+6606;Ayam Geprek Level 5;2024-11-25;25000;Andi Wijaya;Rp20000
+4506;Bakso Malang;2024-07-07;30000;Eko Prasetyo;Rp24000
+7390;Lontong Sayur Medan;;30000;Andi Wijaya;Rp24000
+4686;Rendang Padang;2024-09-17;20000;Eko Prasetyo;Rp16000
+3538;Pempek Palembang;2024-06-13;40000;Dewi Ayu;Rp32000
+8150;Ayam Geprek Level 5;2024-12-27;27000;Citra Lestari;Rp21600
+4861;Mie Ayam Komplit;2024-05-01;40000;Dewi Ayu;Rp32000
+7457;Pempek Palembang;;35000;Andi Wijaya;Rp28000
+8613;Bakso Malang;2024-04-01;20000;Dewi Ayu;Rp16000
+7375;Rendang Padang;2024-10-24;30000;Eko Prasetyo;Rp24000
+7890;Bakso Malang;2024-10-11;20000;Andi Wijaya;Rp16000
+3297;Nasi Goreng Spesial;2024-11-23;20000;Budi Santoso;Rp16000
+3027;Mie Ayam Komplit;2024-10-28;20000;Eko Prasetyo;Rp16000
+6358;Gado-Gado Betawi;2024-04-07;40000;Andi Wijaya;Rp32000
+3700;Nasi Goreng Spesial;2024-01-02;35000;Dewi Ayu;Rp28000
+3356;Gado-Gado Betawi;2024-02-08;40000;Budi Santoso;Rp32OOO
+5405;Ayam Geprek Level 5;2024-12-11;27000; ;Rp21600
+8767;Rendang Padang;2024-10-12;NaN;Eko Prasetyo;Rp36OOO
+4819;Soto Lamongan;2024-05-07;18000;Andi Wijaya;Rp14400
+1376;Rendang Padang;2024-10-02;22000;Dewi Ayu;Rp17600
+5895;Rendang Padang;2024-06-11;40000;Citra Lestari;Rp32000
+7675;Soto Lamongan;2024-09-12;25000;Budi Santoso;Rp20000
+4884;Soto Lamongan;2024-06-19;18000;Andi Wijaya;Rp144OO
+2596;Mie Ayam Komplit;2024-05-08;35000;Budi Santoso;Rp28000
+1299;Sate Ayam Madura;2024-09-09;20000;Budi Santoso;Rp16000
+9662;Lontong Sayur Medan;2024-12-07;45000;Andi Wijaya;Rp36000
+4896;Ayam Geprek Level 5;2024-06-30;22000;Budi Santoso;Rp17600
+2437;Soto Lamongan;2024-09-06;25000;Andi Wijaya;Rp20000
+7671;Gado-Gado Betawi;2024-05-25;22000;Budi Santoso;Rp176OO
+5420;Ayam Geprek Level 5;2024-03-15;45000;Citra Lestari;Rp36000
+1217;Rendang Padang;2024-03-11;45000;Dewi Ayu;Rp36000
+3788;Mie Ayam Komplit;2024-12-23;18000;Dewi Ayu;Rp14400
+4875;Gado-Gado Betawi;2024-04-03;18000;Citra Lestari;Rp14400
+2552;Soto Lamongan;2024-12-26;22000;Citra Lestari;Rp17600
+2327;Ayam Geprek Level 5;2024-06-20;27000;Eko Prasetyo;Rp21600
+9026;Ayam Geprek Level 5;2024-02-08;22000;Citra Lestari;Rp17600
+6301;Nasi Goreng Spesial;2024-06-24;22000;Budi Santoso;Rp17600
+8471;Sate Ayam Madura;2024-04-02;30000;Dewi Ayu;Rp24000
+7326;Mie Ayam Komplit;2024-05-14;35000;Budi Santoso;Rp28000
+4687;Nasi Goreng Spesial;2024-01-09;20000;Citra Lestari;Rp16000
+3352;Rendang Padang;2024-02-20;35000;Eko Prasetyo;Rp28000
+9414;Lontong Sayur Medan;2024-01-29;20000;Citra Lestari;Rp16000
+1704;Mie Ayam Komplit;2024-03-25;35000;Dewi Ayu;Rp28000
+6522;Sate Ayam Madura;2024-07-27;27000;Dewi Ayu;Rp21600
+7529;Nasi Goreng Spesial;2024-08-25;40000;Dewi Ayu;Rp32000
+2652;Lontong Sayur Medan;2024-07-04;30000;Citra Lestari;Rp24000
+5341;Bakso Malang;2024-01-19;27000;Andi Wijaya;Rp21600
+9899;Rendang Padang;2024-01-11;20000;Citra Lestari;Rp16000
+2016;Bakso Malang;2024-04-16;18000;Citra Lestari;Rp14400
+9824;Mie Ayam Komplit;2024-09-24;35000;Eko Prasetyo;Rp28000
+3909;Rendang Padang;2024-03-09;18000;Citra Lestari;Rp14400
+9809;Pempek Palembang;2024-03-25;18000;Andi Wijaya;Rp14400
+3279;Nasi Goreng Spesial;2024-02-24;18000;Andi Wijaya;Rp14400
+9342;Mie Ayam Komplit;2024-10-19;30000;Eko Prasetyo;Rp24OOO
+9633;Sate Ayam Madura;2024-05-08;20000;Budi Santoso;Rp16000
+3057;Lontong Sayur Medan;2024-07-03;20000; ;Rp16000
+6262;Rendang Padang;2024-04-07;35000;Eko Prasetyo;Rp28000
+8663;Mie Ayam Komplit;2024-08-22;22000;Andi Wijaya;Rp17600
+1773;Lontong Sayur Medan;2024-02-21;35000;Eko Prasetyo;Rp28000
+3174;Pempek Palembang;2024-08-13;18000;Citra Lestari;Rp14400
+2970;Bakso Malang;2024-12-11;NaN;Andi Wijaya;Rp32000
+3458;Sate Ayam Madura;2024-07-27;25000;Dewi Ayu;Rp20000
+2457;Mie Ayam Komplit;2024-05-23;null;Budi Santoso;Rp16000
+3655;Lontong Sayur Medan;2024-07-27;45000;Budi Santoso;Rp36000
+9909;Ayam Geprek Level 5;2024-04-06;35000;Andi Wijaya;Rp28000
+7952;Rendang Padang;2024-10-15;25000;Andi Wijaya;Rp20000
+3963;Mie Ayam Komplit;2024-01-13;25000;Andi Wijaya;Rp20000
+7737;Lontong Sayur Medan;2024-07-17;22000;Dewi Ayu;Rp17600
+4377;Soto Lamongan;2024-08-01;25000;Budi Santoso;Rp20000
+7376;Bakso Malang;2024-10-08;25000; ;Rp20000
+4113;Ayam Geprek Level 5;2024-07-17;45000;Budi Santoso;Rp36000
+9877;Ayam Geprek Level 5;2024-10-07;18000;Dewi Ayu;Rp14400
+4356;Sate Ayam Madura;2024-03-13;20000;Andi Wijaya;Rp16OOO
+8574;Mie Ayam Komplit;2024-07-22;35000;Dewi Ayu;Rp28OOO
+4910;Ayam Geprek Level 5;2024-08-28;27000;Citra Lestari;Rp21600
+1367;Ayam Geprek Level 5;2024-03-21;27000;Citra Lestari;Rp21600
+8810;Nasi Goreng Spesial;2024-02-19;25000;Andi Wijaya;Rp20000
+1252;Lontong Sayur Medan;2024-09-01;30000;Eko Prasetyo;Rp24000
+9210;Gado-Gado Betawi;2024-04-17;35000;Dewi Ayu;Rp28000
+5594;Gado-Gado Betawi;2024-02-28;40000;Dewi Ayu;Rp32000
+9762;Lontong Sayur Medan;2024-09-14;30000;Andi Wijaya;Rp24000
+1167;Bakso Malang;2024-06-11;25000;Citra Lestari;Rp20000
+1945;Gado-Gado Betawi;2024-02-16;30000;Citra Lestari;Rp24000
+7402;Ayam Geprek Level 5;2024-09-21;18000;Eko Prasetyo;Rp14400
+8703;Soto Lamongan;2024-04-10;18000;Andi Wijaya;Rp14400
+5133;Nasi Goreng Spesial;2024-06-30;22000;Citra Lestari;Rp17600
+9748;Sate Ayam Madura;2024-08-23;45000;Budi Santoso;Rp36000
+9343;Gado-Gado Betawi;2024-01-12;35000;Budi Santoso;Rp28000
+1987;Mie Ayam Komplit;2024-08-27;30000;Dewi Ayu;Rp24000
+6611;Pempek Palembang;2024-05-25;25000;Andi Wijaya;Rp20000
+9052;Nasi Goreng Spesial;2024-04-01;45000;Eko Prasetyo;Rp36000
+1986;Bakso Malang;2024-01-30;18000;Dewi Ayu;Rp14400
+9715;Soto Lamongan;2024-11-11;35000;Eko Prasetyo;Rp28000
+6033;Pempek Palembang;2024-10-21;22000;Budi Santoso;Rp17600
+2827;Gado-Gado Betawi;;18000;Eko Prasetyo;Rp14400
+2158;Nasi Goreng Spesial;2024-09-10;30000;Eko Prasetyo;Rp24000
+3354;Ayam Geprek Level 5;2024-08-21;22000;Citra Lestari;Rp17600
+8473;Ayam Geprek Level 5;2024-07-17;20000;Andi Wijaya;Rp16000
+4765;Pempek Palembang;2024-03-07;45000;Dewi Ayu;Rp36000
+3340;Pempek Palembang;2024-11-16;22000;Budi Santoso;Rp17600
+8474;Soto Lamongan;2024-07-26;20000;Dewi Ayu;Rp16000
+9496;Pempek Palembang;2024-12-03;18000;Citra Lestari;Rp14400
+7053;Pempek Palembang;2024-04-23;45000;Dewi Ayu;Rp36000
+3705;Mie Ayam Komplit;;45000;Eko Prasetyo;Rp36OOO
+1031;Lontong Sayur Medan;2024-10-21;30000;Eko Prasetyo;Rp24000
+9429;Nasi Goreng Spesial;2024-06-27;22000;Andi Wijaya;Rp17600
+9049;Bakso Malang;2024-10-29;22000;Andi Wijaya;Rp17600
+4819;Soto Lamongan;2024-08-04;40000;Citra Lestari;Rp32000
+2815;Bakso Malang;2024-01-09;35000;Andi Wijaya;Rp28000
+1833;Pempek Palembang;2024-05-08;27000;Dewi Ayu;Rp21600
+8512;Mie Ayam Komplit;2024-07-28;27000;Eko Prasetyo;Rp21600
+9963;Sate Ayam Madura;2024-07-15;45000;Eko Prasetyo;Rp36000
+1178;Pempek Palembang;2024-03-22;40000;Andi Wijaya;Rp32000
+5375;Bakso Malang;2024-01-01;NaN;Eko Prasetyo;Rp21600
+9101;Bakso Malang;2024-08-26;35000;Citra Lestari;Rp28000
+7275;Ayam Geprek Level 5;2024-12-21;30000;Eko Prasetyo;Rp24000
+8658;Soto Lamongan;2024-06-13;25000;Citra Lestari;Rp20000
+1192;Gado-Gado Betawi;2024-08-01;27000;Budi Santoso;Rp21600
+5242;Mie Ayam Komplit;2024-03-06;25000;Dewi Ayu;Rp20000
+9029;Lontong Sayur Medan;2024-03-22;20000;Eko Prasetyo;Rp16000
+9229;Bakso Malang;2024-01-08;25000;Budi Santoso;Rp20000
+6395;Bakso Malang;2024-02-26;25000;Citra Lestari;Rp20000
+4532;Rendang Padang;2024-11-19;18000;Andi Wijaya;Rp14400
+6123;Nasi Goreng Spesial;2024-12-08;null;Andi Wijaya;Rp36000
+9231;Rendang Padang;2024-04-28;18000;Citra Lestari;Rp14400
+4729;Nasi Goreng Spesial;2024-08-25;20000;Citra Lestari;Rp16000
+1150;Soto Lamongan;2024-12-16;27000;Dewi Ayu;Rp21600
+5808;Nasi Goreng Spesial;2024-05-29;40000;Budi Santoso;Rp32000
+6027;Sate Ayam Madura;2024-09-27;27000;Eko Prasetyo;Rp21600
+2061;Pempek Palembang;2024-02-23;22000;Andi Wijaya;Rp17600
+1369;Lontong Sayur Medan;2024-02-24;18000;Dewi Ayu;Rp14400
+8349;Bakso Malang;2024-12-21;40000;Andi Wijaya;Rp32000
+5737;Ayam Geprek Level 5;2024-05-13;45000;Andi Wijaya;Rp36000
+9458;Nasi Goreng Spesial;2024-05-28;22000;Eko Prasetyo;Rp17600
+5795;Pempek Palembang;2024-11-21;27000;Andi Wijaya;Rp21600
+2978;Pempek Palembang;2024-12-29;35000;Dewi Ayu;Rp28000
+1225;Bakso Malang;2024-04-20;22000;Eko Prasetyo;Rp17600
+5767;Bakso Malang;2024-12-28;20000;Eko Prasetyo;Rp16000
+8894;Mie Ayam Komplit;2024-11-10;27000;Dewi Ayu;Rp21600
+2126;Ayam Geprek Level 5;2024-01-13;20000;Eko Prasetyo;Rp16000
+5290;Ayam Geprek Level 5;2024-07-24;35000;Citra Lestari;Rp28000
+8116;Sate Ayam Madura;2024-06-27;22000;Dewi Ayu;Rp17600
+6600;Ayam Geprek Level 5;2024-01-13;35000;Budi Santoso;Rp28000
+5104;Bakso Malang;2024-04-07;22000;Eko Prasetyo;Rp17600
+3830;Nasi Goreng Spesial;2024-06-04;40000;Citra Lestari;Rp32000
+7992;Sate Ayam Madura;2024-10-05;40000;Eko Prasetyo;Rp32000
+3788;Pempek Palembang;2024-10-19;20000;Andi Wijaya;Rp16000
+5481;Rendang Padang;2024-12-08;27000;Eko Prasetyo;Rp21600
+9295;Ayam Geprek Level 5;2024-08-01;35000;Citra Lestari;Rp28000
+7287;Lontong Sayur Medan;2024-07-18;18000;Citra Lestari;Rp14400
+7155;Rendang Padang;2024-01-25;25000;Dewi Ayu;Rp20000
+1297;Ayam Geprek Level 5;2024-01-22;27000;Budi Santoso;Rp21600
+7900;Rendang Padang;2024-08-08;20000;Andi Wijaya;Rp16000
+2601;Ayam Geprek Level 5;2024-02-09;40000;Budi Santoso;Rp32000
+7709;Soto Lamongan;2024-07-17;40000;Dewi Ayu;Rp32000
+4589;Rendang Padang;2024-04-30;22000;Dewi Ayu;Rp17600
+8854;Pempek Palembang;2024-04-27;25000;Andi Wijaya;Rp20000
+8432;Soto Lamongan;2024-08-27;40000;Citra Lestari;Rp32000
+8340;Mie Ayam Komplit;;40000;Citra Lestari;Rp32000
+7321;Nasi Goreng Spesial;2024-02-14;18000;Eko Prasetyo;Rp14400
+9499;Gado-Gado Betawi;2024-05-21;45000;Dewi Ayu;Rp36000
+7886;Sate Ayam Madura;2024-01-19;27000;Dewi Ayu;Rp21600
+5854;Pempek Palembang;2024-08-13;30000;Budi Santoso;Rp24000
+6534;Mie Ayam Komplit;2024-10-22;40000;Andi Wijaya;Rp32000
+3891;Soto Lamongan;2024-04-26;40000;Eko Prasetyo;Rp32000
+3290;Lontong Sayur Medan;2024-03-10;30000;Citra Lestari;Rp24000
+4062;Bakso Malang;2024-10-10;27000;Citra Lestari;Rp21600
+2386;Ayam Geprek Level 5;2024-09-20;20000;Dewi Ayu;Rp16000
+5366;Soto Lamongan;2024-11-08;30000;Andi Wijaya;Rp24000
+5118;Pempek Palembang;2024-06-11;40000;Eko Prasetyo;Rp32000
+5284;Mie Ayam Komplit;;25000;Dewi Ayu;Rp20000
+8789;Bakso Malang;2024-02-25;25000;Andi Wijaya;Rp20000
+1440;Gado-Gado Betawi;2024-05-05;45000;Citra Lestari;Rp36000
+3961;Pempek Palembang;2024-01-27;25000;Dewi Ayu;Rp20000
+7064;Pempek Palembang;2024-07-04;25000;Dewi Ayu;Rp20000
+2210;Lontong Sayur Medan;2024-03-03;30000;Dewi Ayu;Rp24000
+4920;Mie Ayam Komplit;2024-09-06;20000;Dewi Ayu;Rp16000
+7718;Gado-Gado Betawi;2024-11-14;18000;Andi Wijaya;Rp14400
+4217;Soto Lamongan;2024-02-29;40000;Eko Prasetyo;Rp32000
+2042;Nasi Goreng Spesial;2024-01-28;27000;Budi Santoso;Rp21600
+8151;Lontong Sayur Medan;2024-11-22;35000;Budi Santoso;Rp28000
+9699;Pempek Palembang;2024-06-30;25000;Eko Prasetyo;Rp2OOOO
+2339;Nasi Goreng Spesial;2024-05-12;27000;Eko Prasetyo;Rp21600
+7272;Ayam Geprek Level 5;2024-06-20;30000;Dewi Ayu;Rp24000
+8150;Bakso Malang;2024-04-22;45000;Andi Wijaya;Rp36000
+2193;Lontong Sayur Medan;2024-11-20;22000;Citra Lestari;Rp17600
+4963;Sate Ayam Madura;2024-08-05;27000;Andi Wijaya;Rp21600
+9467;Mie Ayam Komplit;2024-02-03;25000;Andi Wijaya;Rp20000
+9113;Pempek Palembang;2024-05-17;35000;Eko Prasetyo;Rp28000
+5314;Soto Lamongan;2024-06-25;20000;Andi Wijaya;Rp16000
+6502;Sate Ayam Madura;2024-03-15;22000;Citra Lestari;Rp17600
+3742;Mie Ayam Komplit;2024-08-17;35000;Andi Wijaya;Rp28000
+2976;Nasi Goreng Spesial;2024-11-06;30000;Budi Santoso;Rp24000
+2993;Ayam Geprek Level 5;2024-10-26;22000;Dewi Ayu;Rp176OO
+6988;Ayam Geprek Level 5;2024-12-23;27000;Citra Lestari;Rp21600
+1767;Ayam Geprek Level 5;2024-07-01;35000;Dewi Ayu;Rp28000
+7387;Soto Lamongan;2024-06-09;40000;Budi Santoso;Rp32000
+2637;Nasi Goreng Spesial;2024-09-21;40000;Budi Santoso;Rp32000
+6695;Rendang Padang;2024-12-03;18000;Citra Lestari;Rp14400
+6211;Gado-Gado Betawi;2024-12-05;40000;Dewi Ayu;Rp32000
+3740;Gado-Gado Betawi;2024-12-12;22000;Citra Lestari;Rp17600
+1585;Sate Ayam Madura;2024-04-17;18000;Eko Prasetyo;Rp14400
+9945;Mie Ayam Komplit;2024-10-20;27000;Dewi Ayu;Rp21600
+3968;Lontong Sayur Medan;2024-09-29;45000;Citra Lestari;Rp36000
+9868;Sate Ayam Madura;2024-08-08;30000;Citra Lestari;Rp24000
+5294;Rendang Padang;2024-06-04;22000;Dewi Ayu;Rp17600
+4020;Gado-Gado Betawi;2024-09-12;25000;Budi Santoso;Rp20000
+9567;Bakso Malang;2024-03-09;30000;Andi Wijaya;Rp24000
+4861;Pempek Palembang;2024-03-31;22000;Budi Santoso;Rp17600
+3763;Bakso Malang;2024-02-24;35000;Citra Lestari;Rp28000
+1360;Pempek Palembang;2024-11-12;40000;Eko Prasetyo;Rp32000
+5833;Sate Ayam Madura;2024-02-16;30000;Eko Prasetyo;Rp24000
+3132;Soto Lamongan;2024-12-22;30000;Eko Prasetyo;Rp24OOO
+8626;Pempek Palembang;2024-10-22;45000;Eko Prasetyo;Rp36000
+3902;Lontong Sayur Medan;2024-09-01;27000;Citra Lestari;Rp21600
+9240;Gado-Gado Betawi;2024-03-16;25000;Dewi Ayu;Rp2OOOO
+3725;Bakso Malang;2024-02-14;35000;Andi Wijaya;Rp28000
+9065;Nasi Goreng Spesial;2024-03-24;NaN;Dewi Ayu;Rp16000
+7451;Bakso Malang;2024-10-21;25000;Citra Lestari;Rp20000
+9507;Mie Ayam Komplit;2024-09-12;22000;Budi Santoso;Rp176OO
+3888;Ayam Geprek Level 5;2024-01-10;25000;Dewi Ayu;Rp20000
+4406;Pempek Palembang;2024-12-15;30000;Citra Lestari;Rp24000
+9292;Gado-Gado Betawi;2024-09-03;25000;Citra Lestari;Rp20000
+3728;Nasi Goreng Spesial;2024-04-22;30000;Dewi Ayu;Rp24000
+5525;Sate Ayam Madura;2024-09-08;45000;Citra Lestari;Rp36000
+1499;Ayam Geprek Level 5;2024-01-09;27000;Budi Santoso;Rp21600
+5684;Mie Ayam Komplit;2024-01-01;25000;Dewi Ayu;Rp20000
+4026;Mie Ayam Komplit;2024-10-27;22000;Budi Santoso;Rp17600
+1951;Bakso Malang;2024-09-19;40000;Eko Prasetyo;Rp32OOO
+8717;Lontong Sayur Medan;2024-02-09;22000;Andi Wijaya;Rp17600
+9973;Mie Ayam Komplit;2024-09-20;40000;Andi Wijaya;Rp32000
+7427;Rendang Padang;2024-08-20;30000;Eko Prasetyo;Rp24000
+6692;Gado-Gado Betawi;2024-12-12;18000;Andi Wijaya;Rp14400
+4040;Sate Ayam Madura;2024-02-17;30000;Dewi Ayu;Rp24OOO
+2065;Soto Lamongan;2024-09-04;40000;Andi Wijaya;Rp32000
+9774;Soto Lamongan;2024-10-30;NaN;Dewi Ayu;Rp36000
+5269;Bakso Malang;2024-12-29;22000;Andi Wijaya;Rp17600
+5978;Mie Ayam Komplit;2024-03-17;40000; ;Rp32000
+3704;Ayam Geprek Level 5;2024-01-24;35000;Dewi Ayu;Rp28OOO
+4925;Nasi Goreng Spesial;2024-03-27;20000;Eko Prasetyo;Rp16000
+2462;Pempek Palembang;2024-03-01;40000;Andi Wijaya;Rp32000
+1324;Rendang Padang;2024-12-22;30000;Dewi Ayu;Rp24000
+4879;Lontong Sayur Medan;2024-04-04;35000;Citra Lestari;Rp28000
+9404;Nasi Goreng Spesial;2024-01-19;35000;Andi Wijaya;Rp28000
+1792;Nasi Goreng Spesial;2024-10-11;35000;Citra Lestari;Rp28000
+8157;Gado-Gado Betawi;2024-07-01;45000;Dewi Ayu;Rp36000
+5425;Sate Ayam Madura;2024-08-12;35000;Andi Wijaya;Rp28OOO
+9070;Rendang Padang;2024-10-14;25000;Budi Santoso;Rp20000
+1919;Soto Lamongan;2024-01-17;30000;Eko Prasetyo;Rp24000
+5806;Lontong Sayur Medan;2024-07-15;22000;Eko Prasetyo;Rp17600
+2890;Nasi Goreng Spesial;2024-02-11;22000;Budi Santoso;Rp17600
+9663;Nasi Goreng Spesial;2024-03-14;40000;Budi Santoso;Rp32000
+3071;Mie Ayam Komplit;2024-05-01;20000;Eko Prasetyo;Rp16000
+6657;Nasi Goreng Spesial;2024-11-01;30000;Budi Santoso;Rp24000
+4058;Rendang Padang;2024-06-20;25000;Budi Santoso;Rp20000
+1776;Pempek Palembang;2024-09-26;30000;Budi Santoso;Rp24OOO
+7561;Mie Ayam Komplit;2024-12-17;22000;Budi Santoso;Rp176OO
+3390;Lontong Sayur Medan;2024-05-13;45000;Budi Santoso;Rp36000
+6132;Soto Lamongan;2024-01-05;35000;Dewi Ayu;Rp28000
+4195;Pempek Palembang;2024-09-20;35000;Budi Santoso;Rp28000
+1205;Rendang Padang;2024-01-29;22000; ;Rp17600
+5552;Pempek Palembang;2024-10-20;30000;Dewi Ayu;Rp24000
+4054;Gado-Gado Betawi;2024-04-03;18000;Andi Wijaya;Rp14400
+2109;Mie Ayam Komplit;2024-09-25;22000;Citra Lestari;Rp17600
+5425;Ayam Geprek Level 5;2024-01-17;35000;Andi Wijaya;Rp28000
+6535;Nasi Goreng Spesial;2024-09-30;27000;Andi Wijaya;Rp21600
+3057;Gado-Gado Betawi;2024-10-05;22000;Dewi Ayu;Rp17600
+9033;Soto Lamongan;2024-11-10;22000;Budi Santoso;Rp17600
+1801;Mie Ayam Komplit;2024-07-25;40000;Dewi Ayu;Rp32000
+3882;Sate Ayam Madura;2024-08-24;45000;Citra Lestari;Rp36OOO
+1713;Nasi Goreng Spesial;2024-02-17;22000;Citra Lestari;Rp17600
+9017;Soto Lamongan;2024-12-19;27000;Citra Lestari;Rp21600
+9117;Mie Ayam Komplit;;45000;Dewi Ayu;Rp36000
+3924;Bakso Malang;2024-02-10;40000; ;Rp32000
+6246;Bakso Malang;2024-09-06;22000;Dewi Ayu;Rp17600
+8957;Soto Lamongan;2024-02-26;20000;Eko Prasetyo;Rp16000
+4976;Sate Ayam Madura;2024-01-29;22000;Budi Santoso;Rp17600
+5295;Soto Lamongan;2024-07-09;18000;Citra Lestari;Rp14400
+8127;Soto Lamongan;2024-04-28;45000;Eko Prasetyo;Rp36000
+8602;Lontong Sayur Medan;2024-08-19;18000;Andi Wijaya;Rp14400
+8856;Sate Ayam Madura;2024-01-05;35000; ;Rp28000
+1132;Bakso Malang;2024-04-19;27000;Dewi Ayu;Rp21600
+6871;Pempek Palembang;2024-08-15;45000;Dewi Ayu;Rp36000
+3343;Ayam Geprek Level 5;2024-07-06;25000;Eko Prasetyo;Rp20000
+6810;Pempek Palembang;2024-04-28;18000;Dewi Ayu;Rp14400
+7303;Rendang Padang;2024-04-07;30000;Dewi Ayu;Rp24000
+5245;Bakso Malang;2024-07-02;30000;Citra Lestari;Rp24OOO
+8076;Lontong Sayur Medan;2024-06-12;27000; ;Rp21600
+5121;Sate Ayam Madura;;20000;Dewi Ayu;Rp16OOO
+8099;Mie Ayam Komplit;2024-06-17;18000;Citra Lestari;Rp14400
+2178;Pempek Palembang;2024-04-10;35000;Citra Lestari;Rp28000
+4554;Lontong Sayur Medan;2024-04-16;25000;Citra Lestari;Rp20000
+5914;Ayam Geprek Level 5;2024-05-30;18000;Andi Wijaya;Rp14400
+3942;Ayam Geprek Level 5;2024-04-26;18000;Budi Santoso;Rp14400
+6141;Ayam Geprek Level 5;2024-10-18;27000;Citra Lestari;Rp21600
+8963;Mie Ayam Komplit;2024-11-24;40000;Andi Wijaya;Rp32000
+4857;Bakso Malang;2024-10-10;NaN;Dewi Ayu;Rp28000
+9853;Sate Ayam Madura;2024-02-12;null;Andi Wijaya;Rp21600
+4577;Pempek Palembang;2024-11-01;30000;Andi Wijaya;Rp24000
+3791;Rendang Padang;2024-09-08;25000;Andi Wijaya;Rp2OOOO
+9542;Bakso Malang;2024-04-06;40000;Dewi Ayu;Rp32000
+8763;Sate Ayam Madura;2024-12-19;45000;Citra Lestari;Rp36000
+2871;Ayam Geprek Level 5;2024-06-18;22000;Citra Lestari;Rp17600
+2543;Pempek Palembang;2024-04-09;27000;Eko Prasetyo;Rp21600
+5116;Rendang Padang;2024-12-23;18000;Dewi Ayu;Rp14400
+5156;Lontong Sayur Medan;2024-06-22;27000;Andi Wijaya;Rp216OO
+3150;Pempek Palembang;2024-10-01;45000;Eko Prasetyo;Rp36000
+4558;Mie Ayam Komplit;2024-05-18;35000;Budi Santoso;Rp28000
+3661;Sate Ayam Madura;2024-10-22;18000;Andi Wijaya;Rp14400
+1989;Pempek Palembang;2024-08-31;35000;Dewi Ayu;Rp28000
+3280;Ayam Geprek Level 5;2024-06-07;25000;Dewi Ayu;Rp20000
+6481;Pempek Palembang;2024-08-23;18000;Dewi Ayu;Rp14400
+4689;Mie Ayam Komplit;2024-10-22;25000;Andi Wijaya;Rp20000
+4644;Ayam Geprek Level 5;2024-07-22;35000;Dewi Ayu;Rp28000
+9213;Rendang Padang;2024-04-01;27000;Eko Prasetyo;Rp21600
+4972;Rendang Padang;2024-10-24;20000;Citra Lestari;Rp16000
+1401;Nasi Goreng Spesial;2024-09-14;NaN;Budi Santoso;Rp28000
+8488;Gado-Gado Betawi;2024-12-23;35000;Andi Wijaya;Rp28000
+4309;Rendang Padang;2024-01-17;20000;Eko Prasetyo;Rp16000
+6480;Pempek Palembang;2024-08-17;45000;Dewi Ayu;Rp36000
+2854;Mie Ayam Komplit;2024-02-11;25000;Budi Santoso;Rp2OOOO
+7383;Soto Lamongan;2024-07-25;20000;Dewi Ayu;Rp16000
+9229;Gado-Gado Betawi;2024-08-30;27000;Andi Wijaya;Rp216OO
+7322;Gado-Gado Betawi;2024-11-22;22000;Dewi Ayu;Rp17600
+2051;Soto Lamongan;2024-11-26;40000;Citra Lestari;Rp32000
+1346;Pempek Palembang;2024-03-15;18000;Budi Santoso;Rp14400
+4136;Nasi Goreng Spesial;2024-07-20;25000;Citra Lestari;Rp20000
+3805;Mie Ayam Komplit;2024-12-15;25000;Eko Prasetyo;Rp20000
+7002;Sate Ayam Madura;2024-01-26;22000;Dewi Ayu;Rp17600
+5401;Ayam Geprek Level 5;2024-09-28;20000;Eko Prasetyo;Rp16000
+4893;Mie Ayam Komplit;2024-11-05;18000;Dewi Ayu;Rp14400
+7701;Sate Ayam Madura;2024-03-31;35000;Eko Prasetyo;Rp28000
+4099;Sate Ayam Madura;2024-08-04;30000;Citra Lestari;Rp24000
+4601;Nasi Goreng Spesial;2024-10-29;NaN;Andi Wijaya;Rp32OOO
+3932;Lontong Sayur Medan;2024-09-21;27000;Budi Santoso;Rp21600
+3264;Rendang Padang;2024-10-05;20000;Eko Prasetyo;Rp16000
+4866;Bakso Malang;2024-09-01;22000;Citra Lestari;Rp17600
+6212;Soto Lamongan;2024-10-23;NaN;Budi Santoso;Rp17600
+9116;Ayam Geprek Level 5;2024-02-24;27000;Eko Prasetyo;Rp21600
+9150;Pempek Palembang;2024-06-15;25000;Budi Santoso;Rp20000
+6226;Gado-Gado Betawi;2024-05-10;22000;Eko Prasetyo;Rp17600
+6918;Lontong Sayur Medan;;22000;Budi Santoso;Rp17600
+6785;Rendang Padang;2024-12-08;25000;Eko Prasetyo;Rp20000
+7880;Soto Lamongan;2024-05-28;25000;Dewi Ayu;Rp20000
+2973;Mie Ayam Komplit;2024-01-02;22000;Eko Prasetyo;Rp17600
+3519;Ayam Geprek Level 5;2024-11-25;45000;Citra Lestari;Rp36000
+5310;Mie Ayam Komplit;2024-09-07;40000;Citra Lestari;Rp32000
+3771;Gado-Gado Betawi;2024-06-03;22000;Citra Lestari;Rp17600
+7894;Gado-Gado Betawi;2024-02-21;45000;Eko Prasetyo;Rp36000
+5937;Mie Ayam Komplit;2024-10-10;35000;Eko Prasetyo;Rp28000
+5472;Mie Ayam Komplit;2024-02-26;25000;Dewi Ayu;Rp20000
+2840;Sate Ayam Madura;2024-12-04;25000;Citra Lestari;Rp20000
+9998;Rendang Padang;2024-11-20;20000;Dewi Ayu;Rp16000
+2950;Ayam Geprek Level 5;2024-07-05;25000;Andi Wijaya;Rp20000
+6174;Bakso Malang;;35000;Citra Lestari;Rp28000
+4144;Rendang Padang;2024-06-26;18000;Andi Wijaya;Rp14400
+5150;Gado-Gado Betawi;2024-10-07;30000;Dewi Ayu;Rp24000
+9109;Sate Ayam Madura;2024-01-01;40000;Eko Prasetyo;Rp32000
+2556;Ayam Geprek Level 5;2024-12-05;18000;Citra Lestari;Rp14400
+8884;Bakso Malang;2024-07-16;20000;Eko Prasetyo;Rp16000
+1727;Bakso Malang;2024-07-27;27000;Eko Prasetyo;Rp21600
+2259;Ayam Geprek Level 5;2024-11-08;27000;Andi Wijaya;Rp21600
+1276;Rendang Padang;2024-07-29;45000;Citra Lestari;Rp36000
+6081;Lontong Sayur Medan;2024-12-20;45000;Andi Wijaya;Rp36000
+2847;Gado-Gado Betawi;2024-08-07;25000;Eko Prasetyo;Rp20000
+6256;Ayam Geprek Level 5;2024-03-05;40000;Budi Santoso;Rp32000
+1166;Ayam Geprek Level 5;2024-11-25;27000;Eko Prasetyo;Rp21600
+4001;Nasi Goreng Spesial;2024-02-20;30000;Eko Prasetyo;Rp24000
+8600;Pempek Palembang;2024-12-13;40000;Eko Prasetyo;Rp32000
+1186;Ayam Geprek Level 5;2024-09-20;18000;Budi Santoso;Rp14400
+8720;Bakso Malang;2024-08-07;18000;Citra Lestari;Rp14400
+6008;Sate Ayam Madura;2024-11-11;27000;Dewi Ayu;Rp21600
+9339;Mie Ayam Komplit;2024-05-29;45000;Citra Lestari;Rp36000
+6987;Mie Ayam Komplit;2024-04-27;NaN;Dewi Ayu;Rp16000
+5233;Ayam Geprek Level 5;2024-04-17;25000;Citra Lestari;Rp20000
+8193;Nasi Goreng Spesial;2024-12-06;27000;Citra Lestari;Rp21600
+1367;Ayam Geprek Level 5;2024-04-27;35000;Dewi Ayu;Rp28000
+7060;Nasi Goreng Spesial;2024-03-03;30000;Citra Lestari;Rp24000
+7363;Gado-Gado Betawi;2024-11-16;20000;Andi Wijaya;Rp16000
+1008;Ayam Geprek Level 5;;22000;Eko Prasetyo;Rp17600
+4491;Rendang Padang;2024-05-26;18000;Dewi Ayu;Rp14400
+9289;Bakso Malang;2024-01-20;40000;Andi Wijaya;Rp32000
+9283;Nasi Goreng Spesial;2024-09-16;40000;Andi Wijaya;Rp32000
+1131;Sate Ayam Madura;2024-07-09;27000;Andi Wijaya;Rp21600
+9652;Lontong Sayur Medan;2024-06-01;30000;Citra Lestari;Rp24000
+7558;Lontong Sayur Medan;2024-10-15;18000;Eko Prasetyo;Rp14400
+3396;Mie Ayam Komplit;2024-04-23;30000;Andi Wijaya;Rp24000
+6424;Mie Ayam Komplit;2024-12-16;45000;Eko Prasetyo;Rp36000
+8764;Bakso Malang;2024-02-17;22000;Dewi Ayu;Rp17600
+7399;Gado-Gado Betawi;2024-07-16;22000;Budi Santoso;Rp17600
+6047;Rendang Padang;2024-02-03;27000;Eko Prasetyo;Rp21600
+5120;Mie Ayam Komplit;2024-06-14;40000;Eko Prasetyo;Rp32000
+6569;Soto Lamongan;2024-03-29;20000;Budi Santoso;Rp16000
+1617;Pempek Palembang;2024-01-21;40000;Eko Prasetyo;Rp32000
+7051;Soto Lamongan;2024-06-26;27000;Budi Santoso;Rp21600
+7928;Nasi Goreng Spesial;2024-09-30;25000;Citra Lestari;Rp20000
+3189;Soto Lamongan;2024-11-20;27000;Eko Prasetyo;Rp21600
+8011;Mie Ayam Komplit;2024-05-10;20000;Budi Santoso;Rp16000
+6285;Lontong Sayur Medan;2024-03-09;null;Dewi Ayu;Rp28000
+8959;Bakso Malang;2024-02-08;25000;Dewi Ayu;Rp20000
+9691;Mie Ayam Komplit;2024-10-22;40000; ;Rp32OOO
+8711;Ayam Geprek Level 5;2024-06-27;30000;Budi Santoso;Rp24000
+9638;Bakso Malang;2024-09-27;45000;Budi Santoso;Rp36000
+6682;Sate Ayam Madura;2024-06-15;22000;Dewi Ayu;Rp17600
+8116;Pempek Palembang;2024-03-15;18000;Budi Santoso;Rp14400
+5020;Ayam Geprek Level 5;2024-02-07;18000;Dewi Ayu;Rp14400
+6205;Pempek Palembang;2024-12-13;45000;Andi Wijaya;Rp36000
+8403;Sate Ayam Madura;2024-06-23;22000;Andi Wijaya;Rp17600
+9067;Bakso Malang;2024-09-27;35000;Andi Wijaya;Rp28000
+2648;Gado-Gado Betawi;2024-08-14;22000;Budi Santoso;Rp17600
+4985;Soto Lamongan;2024-06-28;30000;Citra Lestari;Rp24000
+4524;Gado-Gado Betawi;2024-02-16;35000;Dewi Ayu;Rp28000
+1655;Rendang Padang;2024-02-15;18000;Budi Santoso;Rp14400
+2022;Soto Lamongan;2024-04-05;25000;Andi Wijaya;Rp20000
+6499;Sate Ayam Madura;2024-10-14;35000;Budi Santoso;Rp28000
+8073;Pempek Palembang;2024-01-02;20000;Citra Lestari;Rp16000
+5017;Lontong Sayur Medan;2024-07-29;25000;Dewi Ayu;Rp20000
+9327;Soto Lamongan;2024-06-18;35000;Citra Lestari;Rp28000
+5964;Bakso Malang;2024-08-11;30000;Citra Lestari;Rp24000
+7339;Soto Lamongan;2024-10-23;20000;Dewi Ayu;Rp16000
+2179;Nasi Goreng Spesial;2024-03-27;35000;Budi Santoso;Rp28000
+6771;Gado-Gado Betawi;2024-01-04;45000;Andi Wijaya;Rp36000
+7495;Gado-Gado Betawi;2024-10-20;18000;Andi Wijaya;Rp14400
+2244;Gado-Gado Betawi;2024-09-27;20000;Budi Santoso;Rp16000
+2122;Rendang Padang;2024-11-08;22000;Dewi Ayu;Rp17600
+2348;Mie Ayam Komplit;2024-07-19;25000;Dewi Ayu;Rp20000
+3859;Nasi Goreng Spesial;2024-04-09;40000;Budi Santoso;Rp32000
+3136;Rendang Padang;2024-11-15;45000;Eko Prasetyo;Rp36OOO
+6600;Gado-Gado Betawi;2024-08-20;20000;Dewi Ayu;Rp16000
+2073;Rendang Padang;;35000;Budi Santoso;Rp28000
+8716;Bakso Malang;2024-07-08;22000;Budi Santoso;Rp176OO
+6415;Sate Ayam Madura;2024-03-04;45000;Citra Lestari;Rp36000
+6913;Mie Ayam Komplit;2024-08-24;20000;Citra Lestari;Rp16000
+6074;Bakso Malang;2024-01-07;45000; ;Rp36000
+5367;Ayam Geprek Level 5;2024-06-01;40000;Dewi Ayu;Rp32000
+7877;Ayam Geprek Level 5;2024-10-19;18000;Andi Wijaya;Rp14400
+7342;Pempek Palembang;2024-10-16;27000;Citra Lestari;Rp21600
+8240;Nasi Goreng Spesial;2024-09-10;35000;Andi Wijaya;Rp28000
+9121;Rendang Padang;2024-02-11;27000;Citra Lestari;Rp21600
+8237;Lontong Sayur Medan;2024-09-30;20000;Eko Prasetyo;Rp16000
+6392;Sate Ayam Madura;2024-08-31;40000;Dewi Ayu;Rp32000
+5069;Ayam Geprek Level 5;2024-11-17;18000; ;Rp14400
+3011;Pempek Palembang;2024-03-31;20000;Andi Wijaya;Rp16000
+8935;Sate Ayam Madura;2024-09-13;45000;Citra Lestari;Rp36000
+4497;Soto Lamongan;2024-01-26;20000;Eko Prasetyo;Rp16000
+5087;Gado-Gado Betawi;2024-06-19;30000;Eko Prasetyo;Rp24000
+9486;Lontong Sayur Medan;;25000;Citra Lestari;Rp20000
+7976;Lontong Sayur Medan;2024-09-28;20000;Andi Wijaya;Rp16000
+1902;Nasi Goreng Spesial;;45000;Dewi Ayu;Rp36000
+5902;Bakso Malang;2024-12-24;35000;Dewi Ayu;Rp28000
+7516;Mie Ayam Komplit;2024-09-20;20000;Citra Lestari;Rp16000
+2340;Gado-Gado Betawi;2024-03-22;20000;Citra Lestari;Rp16000
+4660;Ayam Geprek Level 5;2024-01-10;25000;Eko Prasetyo;Rp20000
+3209;Bakso Malang;2024-10-09;25000;Andi Wijaya;Rp20000
+9884;Ayam Geprek Level 5;2024-02-18;22000;Eko Prasetyo;Rp17600
+4611;Lontong Sayur Medan;2024-08-25;20000;Andi Wijaya;Rp16000
+2925;Ayam Geprek Level 5;2024-12-21;27000;Andi Wijaya;Rp21600
+7974;Gado-Gado Betawi;2024-03-27;22000;Eko Prasetyo;Rp17600
+9470;Rendang Padang;2024-05-10;45000;Budi Santoso;Rp36000
+9772;Rendang Padang;2024-04-16;27000;Andi Wijaya;Rp21600
+7310;Pempek Palembang;2024-05-26;35000;Citra Lestari;Rp28000
+8851;Rendang Padang;2024-08-11;30000;Dewi Ayu;Rp24000
+1824;Mie Ayam Komplit;2024-03-24;null;Budi Santoso;Rp17600
+2657;Rendang Padang;2024-01-12;40000;Dewi Ayu;Rp32000
+2088;Nasi Goreng Spesial;2024-12-09;45000;Citra Lestari;Rp36000
+7689;Lontong Sayur Medan;2024-01-22;27000;Budi Santoso;Rp21600
+6603;Soto Lamongan;2024-08-21;22000;Budi Santoso;Rp17600
+9952;Gado-Gado Betawi;2024-05-15;18000;Budi Santoso;Rp14400
+8525;Bakso Malang;;18000;Budi Santoso;Rp14400
+3429;Lontong Sayur Medan;2024-06-26;20000; ;Rp16000
+7472;Nasi Goreng Spesial;2024-02-25;40000;Eko Prasetyo;Rp32000
+6857;Bakso Malang;2024-07-30;45000;Budi Santoso;Rp36000
+8243;Nasi Goreng Spesial;;30000;Andi Wijaya;Rp24000
+5759;Gado-Gado Betawi;;null;Eko Prasetyo;Rp17600
+6628;Nasi Goreng Spesial;2024-06-06;25000;Citra Lestari;Rp20000
+1368;Nasi Goreng Spesial;2024-11-27;20000;Dewi Ayu;Rp16000
+9614;Soto Lamongan;2024-04-01;18000;Eko Prasetyo;Rp14400
+7384;Mie Ayam Komplit;2024-10-29;25000;Dewi Ayu;Rp20000
+3241;Gado-Gado Betawi;2024-05-20;40000;Dewi Ayu;Rp32000
+2696;Soto Lamongan;2024-03-30;NaN;Andi Wijaya;Rp21600
+3313;Mie Ayam Komplit;2024-06-24;40000;Budi Santoso;Rp32000
+6221;Bakso Malang;2024-08-22;45000;Dewi Ayu;Rp36000
+3572;Nasi Goreng Spesial;2024-02-03;45000;Budi Santoso;Rp36000
+8632;Soto Lamongan;2024-01-24;NaN;Budi Santoso;Rp28000
+1094;Gado-Gado Betawi;2024-07-10;null;Andi Wijaya;Rp28000
+7189;Ayam Geprek Level 5;2024-01-03;45000;Budi Santoso;Rp36000
+6515;Sate Ayam Madura;2024-07-04;45000;Eko Prasetyo;Rp36000
+5487;Soto Lamongan;2024-11-28;25000;Andi Wijaya;Rp20000
+5617;Nasi Goreng Spesial;2024-01-14;25000;Citra Lestari;Rp20000
+6615;Bakso Malang;2024-10-22;25000; ;Rp20000
+4508;Ayam Geprek Level 5;2024-11-03;45000;Citra Lestari;Rp36000
+9808;Pempek Palembang;2024-01-27;30000;Dewi Ayu;Rp24000
+6152;Bakso Malang;2024-02-26;25000;Andi Wijaya;Rp20000
+8620;Gado-Gado Betawi;2024-04-09;18000;Citra Lestari;Rp14400
+8461;Soto Lamongan;2024-09-12;30000;Eko Prasetyo;Rp24000
+4365;Soto Lamongan;2024-08-07;35000;Citra Lestari;Rp28000
+4138;Rendang Padang;2024-01-10;NaN;Andi Wijaya;Rp16000
+4695;Rendang Padang;2024-04-20;20000;Dewi Ayu;Rp16000
+8535;Pempek Palembang;2024-07-27;45000;Eko Prasetyo;Rp36000
+5798;Ayam Geprek Level 5;2024-07-11;40000;Citra Lestari;Rp32000
+7811;Soto Lamongan;2024-12-11;35000;Andi Wijaya;Rp28000
+6607;Nasi Goreng Spesial;2024-10-08;30000;Andi Wijaya;Rp24000
+7399;Rendang Padang;2024-11-28;22000;Dewi Ayu;Rp17600
+2971;Nasi Goreng Spesial;2024-02-26;22000;Andi Wijaya;Rp17600
+4331;Rendang Padang;2024-12-26;45000;Budi Santoso;Rp36000
+8378;Sate Ayam Madura;2024-12-20;35000;Budi Santoso;Rp28000
+9268;Soto Lamongan;2024-05-19;null;Citra Lestari;Rp32000
+2392;Pempek Palembang;2024-10-28;NaN;Andi Wijaya;Rp32000
+2003;Rendang Padang;2024-03-17;25000;Budi Santoso;Rp20000
+4479;Soto Lamongan;2024-06-12;null;Budi Santoso;Rp21600
+7024;Nasi Goreng Spesial;2024-05-07;22000;Citra Lestari;Rp176OO
+9811;Pempek Palembang;2024-04-11;45000;Eko Prasetyo;Rp36000
+3273;Lontong Sayur Medan;;18000;Citra Lestari;Rp14400
+9651;Lontong Sayur Medan;2024-03-19;20000;Citra Lestari;Rp16000
+4031;Nasi Goreng Spesial;2024-07-28;20000;Andi Wijaya;Rp16000
+7467;Gado-Gado Betawi;2024-04-19;null;Budi Santoso;Rp36000
+4103;Pempek Palembang;2024-03-24;25000;Budi Santoso;Rp20000
+9407;Mie Ayam Komplit;2024-05-29;25000;Dewi Ayu;Rp20000
+5979;Lontong Sayur Medan;2024-08-25;45000;Budi Santoso;Rp36000
+5165;Lontong Sayur Medan;2024-12-19;22000;Citra Lestari;Rp17600
+8254;Ayam Geprek Level 5;2024-03-09;30000;Budi Santoso;Rp24000
+2782;Bakso Malang;2024-05-24;40000;Budi Santoso;Rp32000
+5166;Soto Lamongan;2024-12-14;20000;Citra Lestari;Rp16000
+7521;Ayam Geprek Level 5;2024-02-26;null;Dewi Ayu;Rp24000
+7284;Mie Ayam Komplit;2024-11-25;27000;Andi Wijaya;Rp21600
+8613;Bakso Malang;2024-05-01;27000;Budi Santoso;Rp21600
+9805;Bakso Malang;2024-09-29;30000;Eko Prasetyo;Rp24000
+7825;Mie Ayam Komplit;2024-02-14;27000;Andi Wijaya;Rp21600
+4854;Gado-Gado Betawi;2024-11-14;27000;Andi Wijaya;Rp21600
+4940;Ayam Geprek Level 5;2024-02-25;22000;Dewi Ayu;Rp17600
+6194;Mie Ayam Komplit;2024-05-18;30000; ;Rp24000
+2143;Rendang Padang;2024-02-18;27000; ;Rp21600
+4781;Pempek Palembang;2024-10-29;null;Eko Prasetyo;Rp24000
+7626;Soto Lamongan;2024-10-26;22000;Budi Santoso;Rp17600
+1142;Gado-Gado Betawi;2024-01-18;25000;Dewi Ayu;Rp20000
+2545;Mie Ayam Komplit;2024-05-18;45000;Andi Wijaya;Rp36000
+4086;Soto Lamongan;2024-09-13;27000;Andi Wijaya;Rp21600
+8332;Ayam Geprek Level 5;2024-04-26;45000;Citra Lestari;Rp36000
+7496;Sate Ayam Madura;2024-07-08;30000;Andi Wijaya;Rp24000
+4928;Gado-Gado Betawi;2024-11-11;22000; ;Rp17600
+9647;Gado-Gado Betawi;2024-05-14;40000;Eko Prasetyo;Rp32000
+4114;Pempek Palembang;2024-09-14;30000;Eko Prasetyo;Rp24000
+7131;Bakso Malang;2024-09-18;18000;Eko Prasetyo;Rp14400
+6757;Sate Ayam Madura;2024-09-22;25000;Dewi Ayu;Rp20000
+3372;Sate Ayam Madura;2024-11-16;45000;Andi Wijaya;Rp36000
+7960;Soto Lamongan;2024-01-20;30000;Citra Lestari;Rp24000
+5145;Rendang Padang;2024-03-22;27000;Eko Prasetyo;Rp21600
+7467;Rendang Padang;2024-04-20;18000;Citra Lestari;Rp14400
+7993;Ayam Geprek Level 5;2024-12-11;40000;Budi Santoso;Rp32000
+8392;Soto Lamongan;2024-06-18;30000;Citra Lestari;Rp24000
+8820;Pempek Palembang;2024-03-05;45000; ;Rp36000
+8609;Rendang Padang;2024-02-02;20000;Andi Wijaya;Rp16000
+9042;Sate Ayam Madura;2024-03-14;40000;Budi Santoso;Rp32000
+2681;Gado-Gado Betawi;2024-05-07;45000; ;Rp36000
+5465;Mie Ayam Komplit;2024-04-02;30000;Budi Santoso;Rp24000
+7074;Ayam Geprek Level 5;2024-07-26;25000;Budi Santoso;Rp20000
+4896;Nasi Goreng Spesial;2024-06-03;35000;Eko Prasetyo;Rp28000
+9012;Ayam Geprek Level 5;2024-09-23;25000;Dewi Ayu;Rp20000
+7670;Mie Ayam Komplit;2024-07-29;45000;Andi Wijaya;Rp36000
+3407;Mie Ayam Komplit;2024-11-15;30000;Andi Wijaya;Rp24OOO
+4797;Nasi Goreng Spesial;2024-04-07;30000;Eko Prasetyo;Rp24000
+8048;Lontong Sayur Medan;2024-11-19;45000;Citra Lestari;Rp36000
+9398;Nasi Goreng Spesial;2024-10-13;18000;Dewi Ayu;Rp14400
+6280;Bakso Malang;2024-08-17;18000;Dewi Ayu;Rp14400
+6669;Gado-Gado Betawi;2024-10-25;40000;Citra Lestari;Rp32OOO
+9871;Nasi Goreng Spesial;2024-07-30;40000;Dewi Ayu;Rp32000
+1741;Pempek Palembang;2024-08-02;27000;Dewi Ayu;Rp21600
+1062;Mie Ayam Komplit;2024-03-05;18000;Eko Prasetyo;Rp14400
+4309;Nasi Goreng Spesial;2024-01-14;22000;Dewi Ayu;Rp17600
+1044;Mie Ayam Komplit;2024-07-03;NaN;Eko Prasetyo;Rp16000
+4226;Pempek Palembang;2024-07-12;40000;Eko Prasetyo;Rp32000
+8147;Mie Ayam Komplit;2024-06-05;22000;Citra Lestari;Rp17600
+2896;Nasi Goreng Spesial;;18000;Eko Prasetyo;Rp14400
+7041;Rendang Padang;2024-03-29;18000;Dewi Ayu;Rp14400
+3073;Mie Ayam Komplit;2024-01-19;null;Dewi Ayu;Rp28000
+3417;Sate Ayam Madura;2024-03-06;40000;Eko Prasetyo;Rp32000
+9535;Gado-Gado Betawi;2024-11-03;40000;Andi Wijaya;Rp32000
+8810;Rendang Padang;2024-05-24;25000;Budi Santoso;Rp20000
+5624;Pempek Palembang;2024-01-16;25000;Dewi Ayu;Rp20000
+5571;Sate Ayam Madura;2024-12-21;NaN;Citra Lestari;Rp24000
+1080;Sate Ayam Madura;2024-12-31;30000;Eko Prasetyo;Rp24000
+6985;Nasi Goreng Spesial;2024-02-16;18000;Eko Prasetyo;Rp14400
+7262;Nasi Goreng Spesial;2024-08-17;30000;Andi Wijaya;Rp24000
+1788;Gado-Gado Betawi;2024-02-24;30000;Citra Lestari;Rp24OOO
+9627;Rendang Padang;2024-03-20;25000;Dewi Ayu;Rp20000
+4936;Sate Ayam Madura;2024-06-18;18000;Budi Santoso;Rp14400
+9945;Lontong Sayur Medan;2024-04-18;45000;Andi Wijaya;Rp36000
+3556;Nasi Goreng Spesial;2024-03-03;25000;Dewi Ayu;Rp20000
+5602;Sate Ayam Madura;2024-10-28;22000;Andi Wijaya;Rp17600
+8975;Ayam Geprek Level 5;2024-03-13;25000;Citra Lestari;Rp20000
+4882;Pempek Palembang;2024-06-08;22000;Dewi Ayu;Rp17600
+3700;Soto Lamongan;2024-06-01;40000;Dewi Ayu;Rp32000
+5479;Nasi Goreng Spesial;2024-10-02;25000;Andi Wijaya;Rp20000
+1858;Pempek Palembang;2024-11-25;20000; ;Rp16000
+7150;Bakso Malang;2024-06-08;18000;Citra Lestari;Rp14400
+1775;Pempek Palembang;2024-11-13;22000;Andi Wijaya;Rp17600
+6782;Sate Ayam Madura;2024-03-01;27000;Andi Wijaya;Rp21600
+1487;Bakso Malang;2024-11-30;NaN;Eko Prasetyo;Rp17600
+3505;Mie Ayam Komplit;2024-05-02;20000;Citra Lestari;Rp16000
+2846;Bakso Malang;2024-03-17;20000;Dewi Ayu;Rp16000
+2141;Rendang Padang;2024-02-06;27000;Citra Lestari;Rp21600
+4284;Sate Ayam Madura;2024-07-14;27000;Eko Prasetyo;Rp21600
+8888;Mie Ayam Komplit;2024-06-06;45000;Budi Santoso;Rp36000
+6525;Soto Lamongan;2024-03-08;18000;Eko Prasetyo;Rp14400
+8787;Sate Ayam Madura;2024-01-28;45000;Budi Santoso;Rp36000
+4525;Rendang Padang;2024-12-01;18000;Citra Lestari;Rp14400
+7115;Gado-Gado Betawi;2024-09-26;40000;Andi Wijaya;Rp32000
+4700;Pempek Palembang;2024-02-21;18000;Andi Wijaya;Rp14400
+3357;Rendang Padang;2024-11-03;20000;Eko Prasetyo;Rp16000
+9220;Rendang Padang;2024-02-11;40000;Citra Lestari;Rp32000
+2634;Soto Lamongan;2024-11-16;40000;Andi Wijaya;Rp32000
+3726;Bakso Malang;2024-07-14;22000;Citra Lestari;Rp17600
+4402;Sate Ayam Madura;2024-02-29;27000;Dewi Ayu;Rp21600
+2360;Pempek Palembang;2024-11-09;35000;Andi Wijaya;Rp28000
+6659;Nasi Goreng Spesial;2024-07-06;18000;Citra Lestari;Rp144OO
+2764;Sate Ayam Madura;2024-02-27;27000;Budi Santoso;Rp21600
+7339;Bakso Malang;2024-02-08;18000;Eko Prasetyo;Rp14400
+7481;Gado-Gado Betawi;2024-04-26;18000;Citra Lestari;Rp14400
+8527;Lontong Sayur Medan;2024-07-28;40000;Andi Wijaya;Rp32000
+1627;Mie Ayam Komplit;2024-09-10;45000;Citra Lestari;Rp36000
+3491;Rendang Padang;2024-02-06;27000;Andi Wijaya;Rp216OO
+8204;Mie Ayam Komplit;2024-11-25;35000;Andi Wijaya;Rp28000
+2804;Mie Ayam Komplit;2024-05-23;22000;Budi Santoso;Rp17600
+7299;Rendang Padang;2024-01-02;22000;Dewi Ayu;Rp17600
+7983;Mie Ayam Komplit;2024-08-11;20000;Andi Wijaya;Rp16000
+6456;Soto Lamongan;2024-03-23;20000;Eko Prasetyo;Rp16000
+1830;Lontong Sayur Medan;2024-08-29;NaN;Budi Santoso;Rp20000
+5715;Sate Ayam Madura;2024-11-18;40000;Dewi Ayu;Rp32000
+3726;Ayam Geprek Level 5;2024-06-21;45000;Dewi Ayu;Rp36000
+6242;Ayam Geprek Level 5;2024-08-16;30000;Dewi Ayu;Rp24000
+3275;Pempek Palembang;2024-01-30;25000;Eko Prasetyo;Rp20000
+6234;Rendang Padang;2024-04-25;40000;Citra Lestari;Rp32000
+3384;Soto Lamongan;2024-05-30;20000;Andi Wijaya;Rp16000
+7837;Sate Ayam Madura;2024-11-19;25000;Eko Prasetyo;Rp20000
+2930;Nasi Goreng Spesial;2024-08-26;27000;Eko Prasetyo;Rp21600
+5426;Nasi Goreng Spesial;2024-02-18;27000;Citra Lestari;Rp21600
+3968;Mie Ayam Komplit;2024-02-08;18000;Dewi Ayu;Rp14400
+8480;Sate Ayam Madura;2024-06-12;20000;Eko Prasetyo;Rp16000
+2096;Gado-Gado Betawi;2024-11-22;30000;Andi Wijaya;Rp24000
+6593;Mie Ayam Komplit;2024-12-19;45000;Budi Santoso;Rp36000
+5423;Soto Lamongan;2024-12-15;30000;Citra Lestari;Rp24000
+3361;Soto Lamongan;2024-06-13;25000;Budi Santoso;Rp20000
+5657;Bakso Malang;2024-06-30;40000;Eko Prasetyo;Rp32000
+5795;Pempek Palembang;2024-10-07;20000;Dewi Ayu;Rp16000
+9818;Bakso Malang;2024-05-16;18000;Eko Prasetyo;Rp14400
+4416;Gado-Gado Betawi;2024-11-03;NaN;Eko Prasetyo;Rp32000
+3369;Nasi Goreng Spesial;2024-04-30;30000;Budi Santoso;Rp24000
+8139;Lontong Sayur Medan;2024-04-07;25000;Budi Santoso;Rp20000
+2146;Nasi Goreng Spesial;2024-07-01;NaN;Dewi Ayu;Rp21600
+2638;Lontong Sayur Medan;2024-06-19;30000;Citra Lestari;Rp24000
+2908;Gado-Gado Betawi;2024-11-05;45000;Dewi Ayu;Rp36000
+2182;Lontong Sayur Medan;2024-02-05;18000;Dewi Ayu;Rp14400
+6831;Soto Lamongan;2024-07-30;45000;Dewi Ayu;Rp36000
+3416;Pempek Palembang;2024-09-27;25000;Eko Prasetyo;Rp20000
+3314;Bakso Malang;2024-07-20;20000;Andi Wijaya;Rp16000
+3189;Gado-Gado Betawi;2024-10-02;30000;Budi Santoso;Rp24000
+3857;Mie Ayam Komplit;2024-02-19;27000;Budi Santoso;Rp21600
+1447;Mie Ayam Komplit;2024-05-30;27000;Citra Lestari;Rp21600
+3854;Rendang Padang;2024-07-07;35000;Eko Prasetyo;Rp28000
+5117;Pempek Palembang;2024-07-02;40000;Dewi Ayu;Rp32000
+8584;Gado-Gado Betawi;2024-07-14;22000;Dewi Ayu;Rp176OO
+4632;Pempek Palembang;2024-01-06;25000;Budi Santoso;Rp20000
+7486;Sate Ayam Madura;2024-12-14;30000;Eko Prasetyo;Rp24000
+5769;Sate Ayam Madura;2024-12-20;20000;Andi Wijaya;Rp16000
+1326;Ayam Geprek Level 5;2024-04-05;27000;Citra Lestari;Rp21600
+5495;Rendang Padang;2024-08-31;18000;Citra Lestari;Rp14400
+7693;Sate Ayam Madura;2024-07-18;40000;Budi Santoso;Rp32000
+6017;Gado-Gado Betawi;2024-03-04;40000;Budi Santoso;Rp32000
+7080;Sate Ayam Madura;2024-12-20;22000;Budi Santoso;Rp17600
+8513;Lontong Sayur Medan;2024-07-24;45000;Budi Santoso;Rp36000
+7942;Pempek Palembang;2024-08-20;20000;Andi Wijaya;Rp16000
+5862;Bakso Malang;2024-05-12;NaN;Citra Lestari;Rp21600
+6964;Ayam Geprek Level 5;2024-01-10;35000;Eko Prasetyo;Rp28000
+2688;Nasi Goreng Spesial;2024-05-15;25000;Budi Santoso;Rp20000
+8782;Pempek Palembang;2024-02-11;30000;Budi Santoso;Rp24000
+6209;Nasi Goreng Spesial;2024-12-31;35000;Dewi Ayu;Rp28000
+1484;Mie Ayam Komplit;2024-05-21;20000;Eko Prasetyo;Rp16000
+5416;Sate Ayam Madura;2024-10-23;35000;Budi Santoso;Rp28000
+6096;Sate Ayam Madura;2024-06-05;35000;Dewi Ayu;Rp28000
+2156;Soto Lamongan;2024-08-04;22000;Eko Prasetyo;Rp17600
+7750;Pempek Palembang;2024-06-25;18000;Andi Wijaya;Rp14400
+3999;Nasi Goreng Spesial;2024-03-15;22000;Budi Santoso;Rp17600
+1651;Gado-Gado Betawi;2024-04-19;30000;Citra Lestari;Rp24000
+4526;Sate Ayam Madura;2024-07-29;40000;Dewi Ayu;Rp32000
+3919;Nasi Goreng Spesial;2024-09-09;35000;Eko Prasetyo;Rp28000
+6783;Pempek Palembang;2024-10-17;22000;Andi Wijaya;Rp17600
+6294;Sate Ayam Madura;2024-05-01;45000;Citra Lestari;Rp36000
+5374;Bakso Malang;2024-08-18;25000;Dewi Ayu;Rp20000
+8450;Lontong Sayur Medan;2024-03-19;30000;Eko Prasetyo;Rp24000
+7029;Sate Ayam Madura;2024-01-19;22000;Citra Lestari;Rp17600
+7543;Rendang Padang;2024-07-04;35000;Citra Lestari;Rp28000
+5755;Bakso Malang;2024-10-30;null; ;Rp32000
+4398;Lontong Sayur Medan;2024-01-23;18000;Andi Wijaya;Rp14400
+4762;Sate Ayam Madura;2024-05-28;18000;Dewi Ayu;Rp14400
+8941;Mie Ayam Komplit;2024-06-26;30000;Andi Wijaya;Rp24000
+6405;Soto Lamongan;2024-05-05;22000;Citra Lestari;Rp17600
+8406;Gado-Gado Betawi;2024-02-24;35000;Andi Wijaya;Rp28000
+9118;Lontong Sayur Medan;2024-12-29;40000;Eko Prasetyo;Rp32000
+2218;Ayam Geprek Level 5;2024-04-17;45000;Eko Prasetyo;Rp36000
+2613;Soto Lamongan;2024-10-03;NaN;Eko Prasetyo;Rp14400
+3661;Lontong Sayur Medan;2024-10-08;30000;Eko Prasetyo;Rp24000
+7019;Gado-Gado Betawi;2024-06-09;22000;Dewi Ayu;Rp17600
+4056;Lontong Sayur Medan;2024-08-31;22000; ;Rp17600
+3741;Mie Ayam Komplit;2024-04-20;40000;Eko Prasetyo;Rp32000
+8190;Bakso Malang;2024-06-29;18000;Citra Lestari;Rp14400
+8302;Bakso Malang;2024-10-28;35000;Budi Santoso;Rp28000
+4900;Pempek Palembang;2024-11-22;25000;Citra Lestari;Rp2OOOO
+8463;Soto Lamongan;2024-05-05;40000;Andi Wijaya;Rp32000
+7890;Ayam Geprek Level 5;2024-10-02;30000;Dewi Ayu;Rp24000
+9282;Ayam Geprek Level 5;2024-06-06;45000; ;Rp36OOO
+4216;Pempek Palembang;2024-04-21;25000;Budi Santoso;Rp2OOOO
+1717;Sate Ayam Madura;2024-08-19;22000;Citra Lestari;Rp17600
+2389;Gado-Gado Betawi;2024-01-22;45000;Citra Lestari;Rp36000
+9730;Bakso Malang;2024-12-17;22000;Eko Prasetyo;Rp17600
+7814;Bakso Malang;2024-06-09;null;Andi Wijaya;Rp21600
+5455;Nasi Goreng Spesial;2024-01-17;25000;Andi Wijaya;Rp20000
+4175;Pempek Palembang;2024-09-21;20000;Eko Prasetyo;Rp16000
+5802;Bakso Malang;2024-12-23;18000;Andi Wijaya;Rp14400
+2051;Bakso Malang;2024-02-01;20000;Eko Prasetyo;Rp16000
+8816;Gado-Gado Betawi;2024-07-19;20000;Andi Wijaya;Rp16000
+8764;Gado-Gado Betawi;2024-08-23;20000;Eko Prasetyo;Rp16000
+2160;Soto Lamongan;2024-06-04;NaN;Eko Prasetyo;Rp14400
+8600;Bakso Malang;2024-08-14;25000;Eko Prasetyo;Rp20000
+6978;Nasi Goreng Spesial;2024-07-13;30000;Dewi Ayu;Rp24000
+6686;Pempek Palembang;2024-12-06;20000;Budi Santoso;Rp16000
+5374;Sate Ayam Madura;2024-07-26;NaN; ;Rp16000
+1062;Lontong Sayur Medan;2024-11-01;30000;Dewi Ayu;Rp24000
+4734;Gado-Gado Betawi;2024-04-04;30000;Budi Santoso;Rp24000
+3910;Nasi Goreng Spesial;2024-07-14;20000;Citra Lestari;Rp16OOO
+9818;Nasi Goreng Spesial;2024-09-17;25000;Dewi Ayu;Rp20000
+7312;Sate Ayam Madura;2024-11-23;25000;Dewi Ayu;Rp20000
+1001;Bakso Malang;2024-06-06;45000; ;Rp36000
+3848;Nasi Goreng Spesial;2024-07-01;18000;Andi Wijaya;Rp14400
+2752;Rendang Padang;2024-06-17;20000;Eko Prasetyo;Rp16000
+8638;Soto Lamongan;2024-12-07;20000;Budi Santoso;Rp16000
+5122;Nasi Goreng Spesial;2024-03-26;27000;Budi Santoso;Rp21600
+8637;Ayam Geprek Level 5;2024-12-10;45000;Dewi Ayu;Rp36000
+1731;Pempek Palembang;2024-11-17;27000;Andi Wijaya;Rp21600
+1303;Gado-Gado Betawi;2024-06-24;25000;Andi Wijaya;Rp20000
+8472;Sate Ayam Madura;2024-10-08;22000;Eko Prasetyo;Rp176OO
+2870;Ayam Geprek Level 5;2024-05-14;30000;Eko Prasetyo;Rp24000
+7735;Lontong Sayur Medan;2024-12-08;27000;Dewi Ayu;Rp21600
+7095;Soto Lamongan;2024-12-28;18000;Andi Wijaya;Rp14400
+6138;Pempek Palembang;2024-10-30;30000;Dewi Ayu;Rp24000
+1325;Lontong Sayur Medan;2024-04-22;null;Citra Lestari;Rp32000
+1719;Ayam Geprek Level 5;2024-07-25;30000;Citra Lestari;Rp24000
+6858;Sate Ayam Madura;2024-07-10;35000;Eko Prasetyo;Rp28000
+2463;Nasi Goreng Spesial;2024-02-01;35000;Eko Prasetyo;Rp28000
+9328;Nasi Goreng Spesial;2024-06-22;18000;Budi Santoso;Rp14400
+6942;Mie Ayam Komplit;2024-02-25;25000;Dewi Ayu;Rp20000
+3113;Gado-Gado Betawi;2024-02-03;null;Citra Lestari;Rp32000
+8687;Gado-Gado Betawi;2024-02-02;27000;Andi Wijaya;Rp21600
+1886;Ayam Geprek Level 5;2024-12-31;27000;Budi Santoso;Rp21600
+3713;Rendang Padang;2024-12-21;20000;Dewi Ayu;Rp16000
+5490;Nasi Goreng Spesial;2024-08-01;30000;Citra Lestari;Rp24000
+8868;Bakso Malang;2024-03-10;27000;Citra Lestari;Rp21600
+8170;Gado-Gado Betawi;2024-04-16;40000;Dewi Ayu;Rp32000
+5405;Rendang Padang;2024-02-29;18000;Andi Wijaya;Rp14400
+2522;Gado-Gado Betawi;2024-06-06;18000;Budi Santoso;Rp14400
+9461;Gado-Gado Betawi;2024-06-03;27000;Andi Wijaya;Rp21600
+6368;Soto Lamongan;2024-05-17;45000;Andi Wijaya;Rp36000
+3549;Bakso Malang;2024-02-20;27000;Budi Santoso;Rp21600
+6148;Soto Lamongan;2024-04-22;null;Dewi Ayu;Rp14400
+7863;Sate Ayam Madura;2024-06-22;40000;Dewi Ayu;Rp32000
+6796;Rendang Padang;2024-11-13;45000;Citra Lestari;Rp36000
+2748;Nasi Goreng Spesial;2024-01-05;45000;Budi Santoso;Rp36000
+3402;Rendang Padang;2024-03-24;25000;Eko Prasetyo;Rp20000
+8103;Bakso Malang;;40000;Citra Lestari;Rp32000
+2165;Rendang Padang;2024-02-12;40000;Citra Lestari;Rp32000
+7227;Gado-Gado Betawi;2024-01-22;25000;Dewi Ayu;Rp20000
+8651;Rendang Padang;2024-01-30;20000;Eko Prasetyo;Rp16000
+8815;Gado-Gado Betawi;2024-10-22;20000;Budi Santoso;Rp16000
+6511;Ayam Geprek Level 5;2024-11-23;25000;Dewi Ayu;Rp20000
+4453;Soto Lamongan;2024-01-22;45000;Dewi Ayu;Rp36000
+9281;Bakso Malang;2024-10-21;35000;Budi Santoso;Rp28000
+7233;Mie Ayam Komplit;2024-09-13;22000;Dewi Ayu;Rp176OO
+9857;Soto Lamongan;2024-01-28;30000;Dewi Ayu;Rp24000
+2735;Mie Ayam Komplit;2024-01-26;27000;Eko Prasetyo;Rp21600
+3732;Bakso Malang;2024-10-05;20000; ;Rp16000
+4775;Sate Ayam Madura;2024-05-29;22000;Budi Santoso;Rp17600
+5901;Pempek Palembang;2024-02-16;27000;Dewi Ayu;Rp21600
+1533;Lontong Sayur Medan;2024-09-14;40000;Eko Prasetyo;Rp32000
+7267;Ayam Geprek Level 5;;20000;Citra Lestari;Rp16000
+1970;Ayam Geprek Level 5;2024-08-15;25000;Andi Wijaya;Rp20000
+2914;Mie Ayam Komplit;2024-05-11;18000; ;Rp14400
+4190;Pempek Palembang;2024-03-31;40000;Budi Santoso;Rp32000
+5218;Rendang Padang;2024-04-09;null;Dewi Ayu;Rp16000
+7827;Nasi Goreng Spesial;2024-11-26;22000;Eko Prasetyo;Rp17600
+2775;Soto Lamongan;2024-12-05;40000;Citra Lestari;Rp32000
+2414;Mie Ayam Komplit;2024-02-18;35000;Budi Santoso;Rp28000
+9255;Mie Ayam Komplit;2024-10-20;30000;Budi Santoso;Rp24000
+8209;Pempek Palembang;2024-09-29;40000;Andi Wijaya;Rp32000
+3690;Bakso Malang;2024-10-30;22000;Eko Prasetyo;Rp17600
+3268;Soto Lamongan;2024-06-09;30000;Andi Wijaya;Rp24000
+4873;Mie Ayam Komplit;2024-06-30;27000;Dewi Ayu;Rp21600
+4072;Bakso Malang;2024-10-25;45000;Budi Santoso;Rp36000
+8259;Mie Ayam Komplit;2024-02-27;27000;Eko Prasetyo;Rp21600
+1910;Gado-Gado Betawi;2024-04-27;45000;Citra Lestari;Rp36000
+7653;Lontong Sayur Medan;2024-11-16;20000;Citra Lestari;Rp16000
+9307;Rendang Padang;2024-09-25;NaN;Dewi Ayu;Rp28000
+6648;Ayam Geprek Level 5;2024-07-24;25000;Budi Santoso;Rp20000
+1673;Mie Ayam Komplit;2024-01-18;22000;Eko Prasetyo;Rp17600
+5672;Pempek Palembang;2024-09-11;25000;Citra Lestari;Rp20000
+4849;Sate Ayam Madura;2024-09-11;45000;Dewi Ayu;Rp36000
+8090;Mie Ayam Komplit;2024-06-13;30000;Eko Prasetyo;Rp24000
+9444;Rendang Padang;2024-08-23;27000;Eko Prasetyo;Rp21600
+6855;Ayam Geprek Level 5;2024-11-10;27000;Budi Santoso;Rp21600
+8112;Gado-Gado Betawi;2024-02-24;40000;Budi Santoso;Rp32000
+9412;Pempek Palembang;2024-01-21;25000;Citra Lestari;Rp20000
+1172;Ayam Geprek Level 5;2024-09-02;18000;Budi Santoso;Rp144OO
+2208;Soto Lamongan;2024-02-06;NaN;Citra Lestari;Rp32000
+6480;Gado-Gado Betawi;2024-01-12;25000;Eko Prasetyo;Rp20000
+1103;Pempek Palembang;2024-03-11;27000;Citra Lestari;Rp21600
+2231;Sate Ayam Madura;2024-08-19;25000;Citra Lestari;Rp20000
+7748;Mie Ayam Komplit;2024-02-08;45000;Citra Lestari;Rp36000
+6706;Pempek Palembang;2024-02-18;22000;Budi Santoso;Rp17600
+8280;Lontong Sayur Medan;2024-02-08;30000;Andi Wijaya;Rp24000
+8145;Rendang Padang;2024-02-01;25000;Citra Lestari;Rp20000
+8155;Bakso Malang;2024-06-19;45000; ;Rp36000
+1235;Sate Ayam Madura;2024-08-28;40000;Budi Santoso;Rp32OOO
+5721;Rendang Padang;2024-10-27;22000;Eko Prasetyo;Rp17600
+4325;Pempek Palembang;2024-08-19;40000;Citra Lestari;Rp32000
+3409;Soto Lamongan;2024-06-18;45000;Dewi Ayu;Rp36000
+8821;Bakso Malang;2024-09-20;45000; ;Rp36000
+6401;Ayam Geprek Level 5;2024-05-22;25000;Dewi Ayu;Rp20000
+3719;Soto Lamongan;2024-05-31;NaN;Andi Wijaya;Rp17600
+6877;Lontong Sayur Medan;2024-06-11;40000;Eko Prasetyo;Rp32000
+7492;Mie Ayam Komplit;2024-02-20;40000;Dewi Ayu;Rp32000
+1952;Ayam Geprek Level 5;2024-09-24;30000;Citra Lestari;Rp24000
+3783;Bakso Malang;2024-01-30;22000;Eko Prasetyo;Rp17600
+7331;Nasi Goreng Spesial;2024-06-25;27000;Budi Santoso;Rp21600
+5119;Bakso Malang;2024-09-22;18000;Eko Prasetyo;Rp14400
+5755;Pempek Palembang;2024-06-06;27000;Eko Prasetyo;Rp21600
+1723;Rendang Padang;2024-11-27;40000;Citra Lestari;Rp32000
+2524;Nasi Goreng Spesial;2024-10-31;27000;Eko Prasetyo;Rp21600
+7492;Ayam Geprek Level 5;2024-04-08;40000;Dewi Ayu;Rp32000
+4781;Rendang Padang;2024-07-18;45000;Citra Lestari;Rp36000
+1926;Bakso Malang;2024-12-24;20000;Eko Prasetyo;Rp16000
+9870;Bakso Malang;2024-01-14;30000;Citra Lestari;Rp24000
+6392;Rendang Padang;2024-01-01;25000;Andi Wijaya;Rp20000
+5113;Rendang Padang;2024-07-31;45000;Budi Santoso;Rp36000
+9835;Lontong Sayur Medan;2024-07-09;35000;Eko Prasetyo;Rp28OOO
+7735;Pempek Palembang;2024-12-03;35000;Citra Lestari;Rp28000
+5047;Soto Lamongan;2024-11-25;40000;Eko Prasetyo;Rp32000
+9299;Soto Lamongan;2024-12-05;20000;Citra Lestari;Rp16000
+4529;Mie Ayam Komplit;2024-06-21;30000;Budi Santoso;Rp24000
+9731;Sate Ayam Madura;2024-05-31;18000;Eko Prasetyo;Rp14400
+7649;Pempek Palembang;;30000;Eko Prasetyo;Rp24000
+6515;Bakso Malang;2024-01-01;18000; ;Rp14400
+9093;Pempek Palembang;2024-12-08;18000;Andi Wijaya;Rp14400
+5893;Mie Ayam Komplit;2024-07-04;27000;Citra Lestari;Rp21600
+7109;Soto Lamongan;2024-02-23;35000;Budi Santoso;Rp28000
+3761;Ayam Geprek Level 5;2024-11-03;27000;Dewi Ayu;Rp21600
+2547;Sate Ayam Madura;2024-11-27;40000;Citra Lestari;Rp32000
+7484;Rendang Padang;2024-05-18;27000;Dewi Ayu;Rp21600
+5763;Lontong Sayur Medan;2024-07-07;45000;Andi Wijaya;Rp36000
+3574;Pempek Palembang;2024-10-29;18000;Eko Prasetyo;Rp14400
+8770;Lontong Sayur Medan;2024-11-27;25000;Dewi Ayu;Rp20000
+4142;Lontong Sayur Medan;2024-01-04;45000;Dewi Ayu;Rp36000
+7949;Sate Ayam Madura;2024-11-01;30000;Dewi Ayu;Rp24000
+2006;Lontong Sayur Medan;2024-06-06;null;Andi Wijaya;Rp14400
+7000;Ayam Geprek Level 5;2024-03-29;45000;Citra Lestari;Rp36000
+3268;Rendang Padang;2024-08-27;30000;Dewi Ayu;Rp24000
+2002;Soto Lamongan;2024-07-29;18000;Budi Santoso;Rp14400
+3258;Nasi Goreng Spesial;2024-07-04;25000;Eko Prasetyo;Rp20000
+6892;Lontong Sayur Medan;2024-02-12;18000;Andi Wijaya;Rp14400
+5961;Soto Lamongan;2024-12-05;30000;Eko Prasetyo;Rp24000
+6252;Soto Lamongan;2024-04-19;NaN;Citra Lestari;Rp24000
+2320;Pempek Palembang;2024-08-12;18000;Andi Wijaya;Rp14400
+6541;Pempek Palembang;2024-12-12;22000;Budi Santoso;Rp17600
+9550;Bakso Malang;2024-01-06;20000;Eko Prasetyo;Rp16000
+5605;Mie Ayam Komplit;2024-05-14;25000;Eko Prasetyo;Rp20000
+7155;Lontong Sayur Medan;2024-07-05;45000; ;Rp36000
+3548;Sate Ayam Madura;2024-03-08;18000;Dewi Ayu;Rp14400
+7033;Nasi Goreng Spesial;2024-07-06;18000;Andi Wijaya;Rp14400
+4101;Bakso Malang;2024-10-23;30000;Citra Lestari;Rp24000
+5407;Pempek Palembang;2024-02-03;30000;Budi Santoso;Rp24000
+1322;Nasi Goreng Spesial;2024-07-25;30000;Budi Santoso;Rp24000
+2096;Soto Lamongan;2024-01-07;40000;Andi Wijaya;Rp32000
+2647;Nasi Goreng Spesial;2024-10-11;18000;Citra Lestari;Rp14400
+6915;Ayam Geprek Level 5;2024-10-28;20000;Citra Lestari;Rp16000
+3115;Ayam Geprek Level 5;2024-09-18;30000;Dewi Ayu;Rp24000
+7296;Gado-Gado Betawi;2024-11-30;35000;Citra Lestari;Rp28000
+2924;Soto Lamongan;2024-05-08;35000; ;Rp28000
+6897;Gado-Gado Betawi;2024-03-25;25000;Dewi Ayu;Rp20000
+5511;Lontong Sayur Medan;2024-01-27;25000;Citra Lestari;Rp20000
+2455;Pempek Palembang;2024-09-06;45000;Dewi Ayu;Rp36000
+4226;Ayam Geprek Level 5;2024-01-27;18000;Budi Santoso;Rp14400
+5161;Mie Ayam Komplit;2024-08-12;25000;Dewi Ayu;Rp20000
+5684;Lontong Sayur Medan;2024-02-01;27000;Andi Wijaya;Rp21600
+5806;Sate Ayam Madura;2024-10-06;45000;Eko Prasetyo;Rp36000
+6079;Soto Lamongan;2024-06-14;20000;Citra Lestari;Rp16OOO
+1537;Soto Lamongan;2024-03-09;35000;Eko Prasetyo;Rp28000
+4360;Rendang Padang;2024-11-16;25000;Dewi Ayu;Rp20000
+6051;Nasi Goreng Spesial;2024-11-20;18000;Andi Wijaya;Rp14400
+2036;Mie Ayam Komplit;2024-07-14;30000;Eko Prasetyo;Rp24000
+8109;Ayam Geprek Level 5;2024-12-07;30000;Citra Lestari;Rp24000
+8692;Soto Lamongan;2024-04-06;25000;Eko Prasetyo;Rp20000
+1074;Bakso Malang;2024-05-03;20000;Citra Lestari;Rp16000
+4128;Pempek Palembang;2024-01-12;25000;Citra Lestari;Rp20000
+2450;Sate Ayam Madura;2024-06-16;25000;Budi Santoso;Rp2OOOO
+7149;Gado-Gado Betawi;2024-04-12;null;Eko Prasetyo;Rp28OOO
+7858;Nasi Goreng Spesial;2024-06-09;20000;Eko Prasetyo;Rp16000
+5194;Mie Ayam Komplit;2024-06-27;22000;Budi Santoso;Rp17600
+7313;Soto Lamongan;2024-01-28;35000;Eko Prasetyo;Rp28000
+4358;Rendang Padang;2024-05-18;27000;Budi Santoso;Rp21600
+8341;Pempek Palembang;2024-12-26;45000;Andi Wijaya;Rp36000
+6867;Mie Ayam Komplit;2024-08-26;18000;Budi Santoso;Rp14400
+8391;Bakso Malang;2024-05-04;40000; ;Rp32000
+7063;Lontong Sayur Medan;2024-07-16;27000;Budi Santoso;Rp21600
+2874;Ayam Geprek Level 5;2024-11-23;25000;Budi Santoso;Rp20000
+9426;Ayam Geprek Level 5;2024-11-08;30000;Citra Lestari;Rp24000
+3217;Pempek Palembang;2024-07-17;40000;Budi Santoso;Rp32000
+5141;Sate Ayam Madura;2024-12-09;NaN;Eko Prasetyo;Rp32000
+2575;Soto Lamongan;2024-04-13;25000;Citra Lestari;Rp20000
+8785;Soto Lamongan;2024-09-23;20000;Budi Santoso;Rp16000
+3725;Lontong Sayur Medan;2024-08-02;22000;Budi Santoso;Rp17600
+2217;Ayam Geprek Level 5;2024-02-05;22000;Dewi Ayu;Rp17600
+9199;Sate Ayam Madura;2024-04-20;30000;Dewi Ayu;Rp24000
+8251;Gado-Gado Betawi;2024-06-28;20000;Budi Santoso;Rp16000
+9310;Pempek Palembang;2024-11-12;40000;Citra Lestari;Rp32000
+3522;Pempek Palembang;2024-05-08;45000;Dewi Ayu;Rp36000
+5411;Gado-Gado Betawi;2024-11-22;18000;Budi Santoso;Rp144OO
+9400;Gado-Gado Betawi;2024-06-05;27000;Andi Wijaya;Rp21600
+2837;Bakso Malang;2024-06-15;22000;Dewi Ayu;Rp17600
+2441;Gado-Gado Betawi;2024-12-19;18000;Andi Wijaya;Rp14400
+8833;Mie Ayam Komplit;2024-06-03;35000;Dewi Ayu;Rp28000
+3700;Ayam Geprek Level 5;2024-03-31;18000;Andi Wijaya;Rp14400
+4171;Soto Lamongan;2024-04-30;30000;Citra Lestari;Rp24000
+2206;Ayam Geprek Level 5;2024-07-04;NaN;Budi Santoso;Rp21600
+3027;Pempek Palembang;2024-07-26;27000;Citra Lestari;Rp21600
+4392;Soto Lamongan;2024-02-06;null;Eko Prasetyo;Rp36000
+7573;Nasi Goreng Spesial;2024-12-26;22000;Budi Santoso;Rp17600
+3380;Soto Lamongan;;22000;Eko Prasetyo;Rp17600
+6613;Bakso Malang;2024-09-08;18000;Eko Prasetyo;Rp14400
+4509;Mie Ayam Komplit;2024-10-29;22000;Budi Santoso;Rp17600
+7605;Pempek Palembang;2024-10-21;25000;Eko Prasetyo;Rp20000
+2013;Ayam Geprek Level 5;2024-02-14;null;Andi Wijaya;Rp36000
+4519;Rendang Padang;2024-08-29;45000;Dewi Ayu;Rp36000
+7759;Lontong Sayur Medan;2024-05-14;22000;Dewi Ayu;Rp17600
+5257;Nasi Goreng Spesial;2024-06-05;30000;Dewi Ayu;Rp24000
+7058;Rendang Padang;2024-08-13;27000;Dewi Ayu;Rp21600
+6242;Ayam Geprek Level 5;2024-07-01;35000;Budi Santoso;Rp28000
+1951;Soto Lamongan;2024-09-06;30000;Budi Santoso;Rp24000
+2166;Lontong Sayur Medan;2024-08-23;40000;Eko Prasetyo;Rp32000
+1534;Pempek Palembang;2024-05-12;45000;Andi Wijaya;Rp36000
+6196;Lontong Sayur Medan;2024-08-07;35000;Dewi Ayu;Rp28000
+3390;Gado-Gado Betawi;2024-10-17;35000;Dewi Ayu;Rp28000
+2409;Pempek Palembang;2024-03-08;27000;Budi Santoso;Rp21600
+9607;Sate Ayam Madura;2024-05-03;18000;Eko Prasetyo;Rp14400
+8992;Bakso Malang;;NaN;Citra Lestari;Rp28000
+6937;Pempek Palembang;2024-02-22;30000;Citra Lestari;Rp24OOO
+1686;Lontong Sayur Medan;2024-03-18;22000;Dewi Ayu;Rp17600
+1626;Nasi Goreng Spesial;2024-09-28;20000;Citra Lestari;Rp16000
+6446;Mie Ayam Komplit;2024-05-13;40000;Eko Prasetyo;Rp32000
+6198;Pempek Palembang;2024-06-22;NaN;Budi Santoso;Rp14400
+4870;Nasi Goreng Spesial;2024-02-11;30000;Citra Lestari;Rp24000
+2297;Ayam Geprek Level 5;2024-11-06;30000;Eko Prasetyo;Rp24000
+9803;Soto Lamongan;2024-03-07;25000;Dewi Ayu;Rp20000
+4823;Soto Lamongan;2024-06-04;22000;Andi Wijaya;Rp17600
+4478;Sate Ayam Madura;2024-05-06;22000;Eko Prasetyo;Rp17600
+1521;Lontong Sayur Medan;2024-12-02;30000;Dewi Ayu;Rp24000
+7008;Lontong Sayur Medan;2024-08-27;22000;Eko Prasetyo;Rp17600
+5432;Ayam Geprek Level 5;2024-03-16;25000;Budi Santoso;Rp20000
+6909;Sate Ayam Madura;2024-04-13;45000; ;Rp36000
+7488;Nasi Goreng Spesial;2024-11-19;25000;Eko Prasetyo;Rp20000
+3927;Nasi Goreng Spesial;2024-02-25;22000;Eko Prasetyo;Rp17600
+4170;Nasi Goreng Spesial;2024-05-13;null;Citra Lestari;Rp36000
+1454;Gado-Gado Betawi;2024-07-30;35000;Budi Santoso;Rp28000
+8884;Sate Ayam Madura;2024-10-17;18000;Citra Lestari;Rp14400
+3526;Soto Lamongan;2024-02-24;null;Dewi Ayu;Rp32000
+8618;Soto Lamongan;2024-02-01;40000;Citra Lestari;Rp32000
+2396;Soto Lamongan;2024-07-13;30000;Citra Lestari;Rp24000
+2320;Rendang Padang;;45000;Andi Wijaya;Rp36000
+6919;Gado-Gado Betawi;2024-08-30;30000;Citra Lestari;Rp24000
+2154;Bakso Malang;2024-01-16;NaN; ;Rp32000
+4359;Mie Ayam Komplit;2024-03-31;30000;Andi Wijaya;Rp24000
+3312;Gado-Gado Betawi;2024-04-05;20000;Eko Prasetyo;Rp16000
+8730;Gado-Gado Betawi;2024-08-25;22000;Citra Lestari;Rp17600
+2727;Ayam Geprek Level 5;2024-06-29;20000;Eko Prasetyo;Rp16000
+9332;Nasi Goreng Spesial;2024-12-17;30000;Dewi Ayu;Rp24000
+4839;Bakso Malang;2024-03-05;35000;Budi Santoso;Rp28000
+5138;Bakso Malang;2024-01-25;30000;Eko Prasetyo;Rp24000
+6528;Lontong Sayur Medan;2024-04-05;27000;Eko Prasetyo;Rp21600
+7823;Nasi Goreng Spesial;2024-08-05;25000;Citra Lestari;Rp20000
+1488;Lontong Sayur Medan;2024-04-07;45000;Andi Wijaya;Rp36000
+7351;Mie Ayam Komplit;2024-08-01;18000;Budi Santoso;Rp14400
+6994;Soto Lamongan;2024-08-03;27000;Andi Wijaya;Rp21600
+3789;Rendang Padang;2024-11-01;NaN; ;Rp17600
+1881;Sate Ayam Madura;2024-07-20;18000;Dewi Ayu;Rp14400
+6739;Lontong Sayur Medan;2024-10-10;18000;Eko Prasetyo;Rp14400
+4502;Nasi Goreng Spesial;2024-03-24;18000;Budi Santoso;Rp14400
+8620;Mie Ayam Komplit;2024-09-23;40000;Andi Wijaya;Rp32000
+5468;Ayam Geprek Level 5;2024-05-28;25000;Eko Prasetyo;Rp20000
+1633;Pempek Palembang;2024-10-03;30000;Andi Wijaya;Rp24000
+8948;Ayam Geprek Level 5;2024-11-27;45000;Dewi Ayu;Rp36000
+7746;Nasi Goreng Spesial;2024-07-05;27000;Citra Lestari;Rp21600
+7566;Pempek Palembang;2024-04-23;30000;Citra Lestari;Rp24000
+6179;Ayam Geprek Level 5;2024-07-31;30000;Budi Santoso;Rp24000
+2454;Bakso Malang;2024-08-28;30000;Eko Prasetyo;Rp24000
